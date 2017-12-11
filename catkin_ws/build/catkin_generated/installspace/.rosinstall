@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bsmrobotics/catkin_ws/install/setup.sh
